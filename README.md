@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 
 # Gemini Clone
 
@@ -92,4 +92,4 @@ We welcome contributions to enhance the Gemini Clone project. To contribute:
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-<p align="center">Thank you for exploring the <strong>Google Gemini Clone</strong>! Happy coding! 🚀</p>
+<p>Thank you for exploring the <strong>Google Gemini Clone</strong>! Happy coding! 🚀</p>
